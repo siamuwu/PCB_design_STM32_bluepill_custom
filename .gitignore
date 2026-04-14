@@ -1,0 +1,11 @@
+# KiCad backup files
+*.bak
+*.bck
+*-backups/
+
+# Autosave files
+*.autosave
+
+# OS junk
+.DS_Store
+Thumbs.db
