@@ -16,7 +16,7 @@ For schematics and pcb check the files ![here](Schematic_PCB_files)
 ### Layout of STM32F103C8T6:
 ![STM32F103C8T6](Images/STM32F103C8T6.png)
 ### PCB Design:
-![PCB_STM32](Images/PCB_STM32.png)
+![PCB_STM32](Images/pcb_stm32.png)
 ### Top View:
 ![Top View](Images/top.png)
 
