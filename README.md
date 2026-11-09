@@ -12,11 +12,11 @@ For schematics and pcb check the files ![here](Schematic_PCB_files)
 ## Images:
 ## Schematic View:
 ### LDO Configuration:
-![LDO](Images/Screenshot 2026-11-09 194057.png)
+![LDO](Images/LDO.png)
 ### Layout of STM32F103C8T6:
-![STM32F103C8T6](Images/Screenshot 2026-11-09 194142.png)
+![STM32F103C8T6](Images/STM32F103C8T6.png)
 ### PCB Design:
-![PCB_STM32](Images/Screenshot 2026-11-09 194218.png)
+![PCB_STM32](Images/PCB_STM32.png)
 ### Top View:
 ![Top View](Images/top.png)
 
